@@ -62,9 +62,9 @@ http_response_code(200); // HTTP 200 OK
 echo "Webhook received successfully.";
  
 // Your Facebook App Credentials
-$app_id         = '573232928556496';
-$app_secret     = 'c961704609b4a4e72c8474518683f2d8';
-$access_token   = 'EAAIJWjEUhdABO97oH267rcNmsiLRlVU77jMWzznMeZAp5ZBE7e1mVJTlJGauYZCluUjPDnogcH5GGjdo870ZCRughE4EY1XU1zMiSGqKY51dCQqipZBlPFtfS9pLBax7siHtthVnN0cBKRzFcAG5HfN7SMA799HZAXKij302ssG5N4mMeONo8wTv1mckPy';
+$app_id         = 'yourappid';
+$app_secret     = 'yourappsecret';
+$access_token   = 'youraccesstoken';
  
  
  
